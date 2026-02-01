@@ -11,9 +11,9 @@ pandas
 scikit-learn
 scipy
 
-# Drift Detection
-evidently
-alibi-detect
+# # Drift Detection
+# evidently
+# alibi-detect
 
 # Data Visualization
 matplotlib
@@ -31,21 +31,21 @@ joblib
 jupyter
 ipykernel
 
-# Database
-psycopg2-binary
+# # Database
+# psycopg2-binary
 
-# API Documentation
-drf-yasg
+# # API Documentation
+# drf-yasg
 
-# Testing
-pytest
-pytest-django
-pytest-cov
+# # Testing
+# pytest
+# pytest-django
+# pytest-cov
 
-# Code Quality
-black
-flake8
-isort
+# # Code Quality
+# black
+# flake8
+# isort
 
-# Environment Management
-python-decouple
+# # Environment Management
+# python-decouple
