@@ -4,8 +4,7 @@ This directory stores data files for the Human Behavior Drift Detection System.
 
 ## Structure:
 - `raw/` - Raw, unprocessed behavior data
-- `processed/` - Cleaned and preprocessed data ready for analysis
-- `features/` - Extracted feature datasets
+- `processed/` - Cleaned and preprocessed data ready for analysis and Extracted feature datasets
 - `models/` - Trained model files and checkpoints
 - `results/` - Drift detection results and analysis outputs
 
