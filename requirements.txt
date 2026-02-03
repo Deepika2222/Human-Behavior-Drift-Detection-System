@@ -11,6 +11,9 @@ pandas
 scikit-learn
 scipy
 
+# yolo
+ultralytics
+
 # # Drift Detection
 # evidently
 # alibi-detect
